@@ -1,11 +1,6 @@
 ## Hi there 👋
-
-<!--
-**jjdev4ever/jjdev4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on developing GenAI Solutions
+I am Jithin and,
+- 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning and trying to Master Git and Version control systems
 - 👯 I’m looking to collaborate on MLOps
 - 🤔 I’m looking for help with CI/CD deployments
